@@ -1,0 +1,9 @@
+References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+U1	1	TL072	Texas Instruments	TL072ACP									
+R1, R3	2	Resistor 1k	Yageo	MFR-25FBF52-1K									
+R2	1	Resistor 120k	Ohmite	OF124JE	TE Connectivity	ROX3SJ120K	TE Connectivity	LR1F120K					
+LED	1	LED RED	Lite-On	LTL-1CHE	Kingbright	WP7113SRD/D							
+POT1	1	Potentiometer	Bourns	PTV09A-4020U-B104	ALPS	RK09K1130C94			PTV09A-4020U-B104-ND				
+JP1, JP2	2	Jumper 3-pin	Harwin	M20-9990345									
+P1, P2	2		Multicomp	2212S-04SG-85									
+P3	1		3M	929870-01-03-RA									

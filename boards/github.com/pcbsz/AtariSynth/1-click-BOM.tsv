@@ -1,0 +1,9 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+C1, C2	2	Capacitor	Vishay	HV1825Y103KXHATHV		77HV1825Y103KXHATHV			
+C3	1	Capacitor	Vishay	515D106M025JA6AE3		75515D106M025JA6AE3			
+Output, Power	2	Header, 2-Pin							
+R1	1	Resistor	Vishay	CCF601K00FKE36		71CCF601KE3			
+U2	1	NE556	TI	NE556N		595NE556N			
+VR1, VR2	2	Rotary Potentiometer	Bourns	PDB241-GTR01-504A2		652PDB241GTR01504A2			
+R2	1	Resistor	Vishay	CCF6010K0FKE36		71CCF6010KE3			
+R3	1	Resistor	Vishay	AC03000004701JAC00		594AC03W4K700J			

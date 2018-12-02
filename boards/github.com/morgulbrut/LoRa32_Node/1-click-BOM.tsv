@@ -1,0 +1,8 @@
+References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+J1, J2	2	Female Header 2.54x18									
+R1	1	Resistor 5k1  1210	Vishay	CRCW12105K10FKEAHP	Vishay	CRCW12105K10FKEA	CRCW12105K10FKEA-ND	71CRCW12105K10FKEAH		43AC0126	2802508
+J3,J4,J5	3	Male Header 2.54x8									
+J6	1	Male Header 2.54x2x2									
+J5	1	DHT 11									
+J8	1	Cable with JST 1.25 female connector									
+BT1	1	HOLDER BATTERY 1CELL 18650 SMD	Keystone Electronics	1042			36-1042-ND				

@@ -1,0 +1,7 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+C1	1	Capacitor	Vishay	S503Z69Z5UL63L0R		594S503Z69Z5UL63L0R			
+C2	1	Capacitor	Vishay	511D277M050DG5D		75511D277M050DG5D			
+R1	1	Resistor	Vishay	AC03000001009JAC00		594AC03W10R00J			
+R2	1	Rotary Potentiometer	Bourns	PDA241-SRT02-103A2		652PDA241SRT02103A2			
+U1	1	Power Amplifier	TI	LM386N-1/NOPB		926LM386N1/NOPB			
+Vin, Vout, Vs	3	Header, 2-Pin							

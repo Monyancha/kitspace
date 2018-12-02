@@ -1,0 +1,14 @@
+References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+Bat	1	9V Battery											
+C1	1	4.7 uF	Panasonic	ECA-1HHG4R7						667ECA1HHG4R7			
+C2	1	100 nF	KEMET	C320C104K1R5TA	Panasonic	ECQ-E2104KF				80C320C104K1R			
+Clip	1	9V Battery clip	Keystone	233						534233			
+IC1	1	4093 CMOS DIP	Texas Instruments	CD4093BCN	STMicroelectronics	HCF4093BEY	ON Semiconductor	MC14093BCP		595CD4030BE			
+LDR	1	photo detector											
+LED	1	LED 5mm	Lite-On	LTL2R3KGD-EM					160-1852-ND	859LTL2R3KGDEM			
+Mini-jack	1	Mini Jack 3.5mm	Kobiconn	16PJ138						16PJ138			
+Pot1	1	1M log	BI Technologies	P160KNP-0QC20A1MEG						858P160KNP0QC20A1M			
+Pot2	1	4.7k lin		P160KNP-0QC20B									
+R1	1	1k Ohm carbon	TE Connectivity	CBT25J1K0						279CBT25J1K0			
+S1	1	Slide Switch	C&K Components	0S102011MS2QN1						611OS102011MS2QN1			
+SP1	1	Piezo speaker											

@@ -1,0 +1,7 @@
+References	Qty	Description	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+C1	1	4.7nF (any manufacturer)		MCFU5472Z5	BC1076CT-ND		7215287		9411844
+D1, D2	2	Shottky Rectifier diode		SR1100			8050573		1861419
+D3	1	5.1V Zener Diode		1N751A	1N751A CT-ND		2508336060		1861484
+P1	1								
+PZ1	1	20mm uncased piezo (https://www.kitronik.co.uk/c3309-20mm-uncased-piezo.html)		7BB-20-6L0	490-7712-ND				1192520
+R1	1	1M 1/4W (any manufacturer)		LR0204F1M0	CF14JT1M00CT-ND		4778662		2329894
